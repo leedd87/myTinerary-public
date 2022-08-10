@@ -1,0 +1,38 @@
+.comment-font {
+   font-size: 1.5rem;
+
+}
+
+.bg-name-avatar {
+   background-color: #F05454;
+   color: white;
+}
+
+.bg-comment {
+   background-color: #F05454;
+   color: white;
+}
+
+.bg-comment-section {
+   background-color: #30475E;
+   color: white;
+}
+
+.btn-comment {
+   color: white;
+   background-color: #30475E;
+   height: 2.5rem;
+}
+
+.btn-add-comment {
+   background-color: #F05454;
+}
+
+
+
+.signup-comment-message-link {
+   border: solid 5px #30475E;
+   background-color: #f5f5f5;
+   color: #F05454 !important;
+   font-size: 1.5rem;
+}

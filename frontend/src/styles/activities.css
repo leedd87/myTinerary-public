@@ -1,0 +1,14 @@
+.img-activities {
+   width: 250px;
+   height: 150px;
+   object-fit: cover;
+}
+
+/* .activity-container {
+   height: 10rem;
+} */
+
+.no-activities {
+   background-color: #f05454;
+   color: #F5F5F5;
+}
